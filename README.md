@@ -25,7 +25,8 @@ Github, Tableau Public, Feedly, Excel, langages HTML/CSS
 - Analyse des besoins :
 - Cahier des charges fonctionnel :
 - Diagramme de gantt :  
-- Tableau de bord de veille métier et technologique : https://public.tableau.com/app/profile/eliane.camus/viz/Tableaudeborddeveille-DataAnalyst/TDBveilleDataAnalyst  
+- Tableau de bord de veille métier et technologique :
+  https://public.tableau.com/app/profile/eliane.camus/viz/Tableaudeborddeveille-DataAnalyst/TDBveilleDataAnalyst  
 - Tableau de bord CV : https://public.tableau.com/app/profile/eliane.camus/viz/CV_Eliane_CAMUS/CV
 - Vidéo de formation sur l'outil Tableau : https://www.youtube.com/watch?v=Zjpc1w3C7A0  
 
