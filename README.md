@@ -24,7 +24,7 @@ Github, Tableau Public, Feedly, Excel, langages HTML/CSS
 ## Liens vers les livrables : 
 - Analyse des besoins :
 - Cahier des charges fonctionnel :
-- Diagramme de gantt :  
+- Diagramme de gantt : https://public.tableau.com/authoring/ProjetPortfolio-DiagrammedeGantt/Feuille1/Diagramme#1  
 - Tableau de bord de veille métier et technologique :
   https://public.tableau.com/app/profile/eliane.camus/viz/Tableaudeborddeveille-DataAnalyst/TDBveilleDataAnalyst  
 - Tableau de bord CV : https://public.tableau.com/app/profile/eliane.camus/viz/CV_Eliane_CAMUS/CV
