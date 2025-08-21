@@ -4,6 +4,7 @@
 
 L'entreprise Aéroworld cherche un profil de data analyst confirmé qui soit intéressé par le management d’une équipe et par l’innovation.  
 L'entreprise en question souhaite analyser les portfolios de nos candidats avant de les rencontrer en entretien.  
+Je dois mettre en place un portfolio réflexif et visuel présentant mon profil et démontrant la maîtrise des compétences attendues.  
 
 ## Soft Skills
 -  Adapter sa posture de professionnel en se positionnant comme consultant
