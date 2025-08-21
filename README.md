@@ -27,9 +27,29 @@ Github, Tableau Public, Feedly, Excel, langages HTML/CSS
 - Diagramme de gantt : https://public.tableau.com/authoring/ProjetPortfolio-DiagrammedeGantt/Feuille1/Diagramme#1  
 - Tableau de bord de veille métier et technologique :
   https://public.tableau.com/app/profile/eliane.camus/viz/Tableaudeborddeveille-DataAnalyst/TDBveilleDataAnalyst  
-- Tableau de bord CV : https://public.tableau.com/app/profile/eliane.camus/viz/CV_Eliane_CAMUS/CV
-- Vidéo de formation sur l'outil Tableau : https://www.youtube.com/watch?v=Zjpc1w3C7A0  
+- Tableau de bord du profil du candidat (CV) : https://public.tableau.com/app/profile/eliane.camus/viz/CV_Eliane_CAMUS/CV
+- Vidéo de formation sur l'outil Tableau : https://www.youtube.com/watch?v=Zjpc1w3C7A0
+- Documentation technique d'aide à la création de graphiques sur l'outil Tableau :  https://github.com/ElianeCamus/Portfolio_P13/blob/main/Guide_Cr%C3%A9ation_Graphiques_Tableau_Eliane_CAMUS.pdf  
 
 ## 
 >Attention ! : Ce projet a été réalisé dans le cadre de la formation "Data Analyst" avec l'organisme OpenClassrooms.
+>
+>
+
+## Visuels du projet : Diagramme de gantt  
+![P13_S01](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P13_S01.jpg)  
+
+
+## Visuels du projet : Tableau de bord de veille métier et technologique  
+![P13_S02](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P13_S02.jpg)  
+
+## Visuels du projet : Tableau de bord du profil du candidat (CV)  
+![P13_S03](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P13_S03.jpg)  
+
+## Visuels du projet : Vidéo de formation sur l'outil Tableau  
+![P13_S04](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P13_S04.jpg)  
+
+## Visuels du projet : Documentation technique d'aide à la création de graphiques sur l'outil Tableau  
+![P13_S05](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P13_S05.jpg) 
+
 
