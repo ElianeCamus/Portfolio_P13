@@ -24,7 +24,8 @@ Github, Tableau Public, Feedly, Excel, langages HTML/CSS
 ## Liens vers les livrables : 
 - Analyse des besoins : https://github.com/ElianeCamus/Portfolio_P13/blob/154b87a71bbd3fa0f658813a13b23f58114a1176/Analyse%2Bdes%2Bbesoins%2Bm%C3%A9tiers_Eliane.docx.pdf  
 - Cahier des charges fonctionnel : https://github.com/ElianeCamus/Portfolio_P13/blob/main/Cahier%2Bdes%2Bcharges%2Bfonctionnel_Eliane.pptx  
-- Diagramme de gantt : https://public.tableau.com/authoring/ProjetPortfolio-DiagrammedeGantt/Feuille1/Diagramme#1  
+- Diagramme de gantt : https://public.tableau.com/authoring/ProjetPortfolio-DiagrammedeGantt/Feuille1/Diagramme#1
+- Graphiques variés d'analyse créés dans l'outil Tableau : https://public.tableau.com/app/profile/eliane.camus/viz/Analysedesventesdelivres2021-2023/Ventesenlignedelivres  
 - Tableau de bord de veille métier et technologique :
   https://public.tableau.com/app/profile/eliane.camus/viz/Tableaudeborddeveille-DataAnalyst/TDBveilleDataAnalyst  
 - Tableau de bord du profil du candidat (CV) : https://public.tableau.com/app/profile/eliane.camus/viz/CV_Eliane_CAMUS/CV
@@ -39,6 +40,8 @@ Github, Tableau Public, Feedly, Excel, langages HTML/CSS
 ## Visuels du projet : Diagramme de gantt  
 ![P13_S01](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P13_S01.jpg)  
 
+## Visuels du projet : Graphiques variés d'analyse créés dans l'outil Tableau
+![P13_S06](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P13_S07.jpg) 
 
 ## Visuels du projet : Tableau de bord de veille métier et technologique  
 ![P13_S02](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P13_S02.jpg)  
